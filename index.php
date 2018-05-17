@@ -41,8 +41,8 @@
  padding: 0.25em 2em 0.25em 0em;
  border: 0 none;
  }
- </style>
 </head>
+ </style>
 <body>
  <h1>Register here!</h1>
  <p>Fill in your name and email address, then click <strong>Submit</strong> to
@@ -59,8 +59,8 @@ register.</p>
 // DB connection info
 // TODO: Update the values for $host, $user, $pwd, and $db //using the values you retrieved
 earlier from the Azure Portal. $host = "value of Data Source";
-$host = "curka1-app-mysqldbserver.mysql.database.azure.com";
-$user = "ruapUser@curka1-app-mysqldbserver";
+$host = "ruapdbserver.mysql.database.azure.com";
+$user = "bey@ruapdbserver";
 $pwd = "oP3P#UVrpj!";
 $db = "ruapdb";
 // Connect to database.

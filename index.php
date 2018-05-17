@@ -61,7 +61,7 @@ register.</p>
 earlier from the Azure Portal. $host = "value of Data Source";
 $host = "ruapdbserver.mysql.database.azure.com";
 $user = "bey@ruapdbserver";
-$pwd = "oP3P#UVrpj!";
+$pwd = "Op3P#UVrpj!";
 $db = "ruapdb";
 // Connect to database.
 $conn = mysqli_connect($host, $user, $pwd, $db);

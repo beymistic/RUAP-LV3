@@ -1,6 +1,6 @@
 <?php
-$host = "curka1-app-mysqldbserver.mysql.database.azure.com";
-$user = "ruapUser@curka1-app-mysqldbserver";
+$host = "ruapdbserver.mysql.database.azure.com";
+$user = "bey@ruapdbserver";
 $pwd = "oP3P#UVrpj!";
 $db = "ruapdb";
  $conn = mysqli_connect($host,$user,$pwd);
